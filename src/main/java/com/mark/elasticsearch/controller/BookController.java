@@ -3,7 +3,6 @@ package com.mark.elasticsearch.controller;
 import com.mark.elasticsearch.model.Book;
 import com.mark.elasticsearch.service.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
